@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hola Mi nombre es Juan Carlos me gusta la programación web, y quiero seguir aprendiendo de toda las personas que me puedan apoyar.
 <!--
 **Jchm1982/Jchm1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
